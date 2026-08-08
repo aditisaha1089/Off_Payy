@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-green)
 ![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
-![CI](https://github.com/i-Anurag1/OffPay/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/aditisaha1089/Off_Payy/actions/workflows/ci.yml/badge.svg)
 
 OffPay is an offline payment network that enables UPI-style transactions without direct internet connectivity.
 
@@ -443,7 +443,7 @@ For production deployment:
 
 # Author
 
-Anurag Thakur
+Aditi Saha
 
 GitHub:
-https://github.com/i-Anurag1
+https://github.com/aditisaha1089
