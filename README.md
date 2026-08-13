@@ -334,7 +334,7 @@ OffPay
 ## Clone Repository
 
 ```bash
-git clone https://github.com/i-Anurag1/OffPay.git
+git clone https://github.com/aditisaha1089/Off_Payy.git
 
 cd OffPay
 ```
