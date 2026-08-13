@@ -336,7 +336,7 @@ OffPay
 ```bash
 git clone https://github.com/aditisaha1089/Off_Payy.git
 
-cd OffPay
+cd Off_Payy
 ```
 
 ---
