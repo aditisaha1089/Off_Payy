@@ -17,7 +17,7 @@ The backend verifies authenticity, prevents duplicate payments, detects replay a
 
 Demo URL:
 
-off-pay-five.vercel.app
+https://off-pay-five.vercel.app/
 
 Note:
 The demo runs through Cloudflare Tunnel from local deployment. The link stays active only while the server is running.
